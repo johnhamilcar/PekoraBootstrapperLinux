@@ -1,14 +1,5 @@
 # Pekora Player Bootstrapper for Linux
 
-2017 Pekora on CachyOS
-![Pekora 2017 client running on CachyOS.](pekora2017linux.png)
-2018 Pekora on CachyOS
-![Pekora 2018 client running on CachyOS.](pekora2018linux.png)
-2020 Pekora on CachyOS
-![Pekora 2020 client running on CachyOS.](pekora2020linux.png)
-2021 Pekora on CachyOS
-![Pekora 2011 client running on CachyOS.](pekora2021linux.png)
-
 This is an **unofficial** bootstrapper for Pekora on Linux.
 Tested on:
 CachyOS
@@ -25,6 +16,16 @@ Winetricks
 Uses Wine and DXVK to provide a performant experience on 2017, 2018, 2020, and 2021 clients. 
 
 Written in Rust.
+
+## Gallery
+2017 Pekora on CachyOS
+![Pekora 2017 client running on CachyOS.](pekora2017linux.png)
+2018 Pekora on CachyOS
+![Pekora 2018 client running on CachyOS.](pekora2018linux.png)
+2020 Pekora on CachyOS
+![Pekora 2020 client running on CachyOS.](pekora2020linux.png)
+2021 Pekora on CachyOS
+![Pekora 2011 client running on CachyOS.](pekora2021linux.png)
 
 ## Usage
 To install it, simply run it in your terminal, like so: ./PekoraPlayerBootstraapper
