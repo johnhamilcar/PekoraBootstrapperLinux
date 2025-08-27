@@ -2,10 +2,10 @@
 
 This is an **unofficial** bootstrapper for Pekora on Linux.
 
-Tested on:\
-CachyOS\
-Ubuntu 20.04\
-Ubuntu 22.04
+Tested on:
+- CachyOS
+- Ubuntu 20.04
+- Ubuntu 22.04
 
 Bootstrapper is built with glibc 2.17, so as long as your operating system supports that version, it should run the bootstrapper.
 
