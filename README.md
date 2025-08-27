@@ -2,18 +2,18 @@
 
 This is an **unofficial** bootstrapper for Pekora on Linux.
 
-Tested on:
-- CachyOS
-- Ubuntu 20.04
-- Ubuntu 22.04
+Tested on:\
+CachyOS\
+Ubuntu 20.04\
+Ubuntu 22.04
 
 Bootstrapper is built with glibc 2.17, so as long as your operating system supports that version, it should run the bootstrapper.
 
 However, in testing (for example, Ubuntu 18.04), the clients themselves would not launch. If the clients don't launch, there is nothing I can do about that. You're on your own.
 
-Prerequisites:\
-Wine\
-Winetricks
+Prerequisites:
+- Wine
+- Winetricks
 
 Uses Wine and DXVK to provide a performant experience on 2017, 2018, 2020, and 2021 clients.\
 Written in Rust.
@@ -36,9 +36,11 @@ To launch a game, simply go onto the website and click the Play button. 2017 gam
 
 To uninstall, run the bootstrapper with the ``-u`` argument. A desktop shortcut should've also been made called "Uninstall Pekora Player", if you'd prefer that.
 
-Install locations:
-~/.local/share/Pekora
-~/.wine-pekora
+### Install locations:
+- ~/.local/share/Pekora
+- ~/.wine-pekora
+- ~/.local/share/applications/pekora-player.desktop
+- ~/.local/share/applications/uninstall-pekora-player.desktop
 
 ## Configuration
 An optional configuration can be made to change the behaviour of the bootstrapper, such as changing how Wine operates, getting debug lines, and showing DXVK's HUD.\
