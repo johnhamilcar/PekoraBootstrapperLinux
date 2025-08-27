@@ -10,8 +10,8 @@ Bootstrapper is built with glibc 2.17, so as long as your operating system suppo
 
 However, in testing (for example, Ubuntu 18.04), the clients themselves would not launch. If the clients don't launch, there is nothing I can do about that. You're on your own.
 
-Prerequisites:
-Wine
+Prerequisites:\
+Wine\
 Winetricks
 
 Uses Wine and DXVK to provide a performant experience on 2017, 2018, 2020, and 2021 clients. 
