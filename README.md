@@ -87,5 +87,8 @@ Copyright (c) 2025 Zyythy. All rights reserved.
 You may redistribute this application in its original, unaltered form. 
 Any other use, including modification, adaptation, reverse engineering, or incorporation into other projects, is strictly prohibited without written permission.
 
+DISCLAIMER: This application is provided "as-is." The author is not liable for any direct, indirect, incidental, or consequential damages arising from its use, including but not limited to data loss or system failures.
+
+
 
 *This bootstrapper in no way uses, redistributes, or modifies proprietary code, trademarks, or assets owned by Roblox Corporation. This bootstrapper is not affiliated with, endorsed by, or sponsored by Roblox Corporation. All code and assets in this application are original works written by me, unless disclosed above.*
