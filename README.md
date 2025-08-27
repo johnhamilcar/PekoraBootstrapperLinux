@@ -1,5 +1,7 @@
 # Pekora Player Bootstrapper for Linux
 
+![Pekora 2017 client running on CachyOS.](pekora2017linux.png)
+
 This is an **unofficial** bootstrapper for Pekora on Linux.
 Tested on:
 CachyOS
