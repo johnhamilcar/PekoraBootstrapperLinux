@@ -1,0 +1,19 @@
+# Configuration file for Pekora Bootstrapper Linux, version 0.2.3
+
+# Whether to print debug lines, does not change behaviour of the bootstrapper
+debug = false
+
+# What mode should Wine operate in?
+# 0 = Default, create a Wine prefix for Pekora (.wine-pekora), and install DXVK through Winetricks
+# 1 = Create a Wine prefix for Pekora (.wine-pekora), and install DXVK manually through the bootstrapper
+# 2 = Create a Wine prefix for Pekora (.wine-pekora), but do not install DXVK
+# 3 = Use the default Wine prefix
+# Default is recommended when not having any issues launching Pekora.
+#   If you do have issues with Wine, try each option in order.
+# When this is changed, it is recommended to clear the .wine-pekora folder in your Home folder.
+wine_mode = 0
+
+# Whether to show DXVK's HUD or not. Does not have any effect if DXVK is not installed.
+# Also for some reason only works when wine_mode is 0.
+# DXVK HUD shows GPU info and FPS.
+show_dxvk_hud = false
