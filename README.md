@@ -1,6 +1,13 @@
 # Pekora Player Bootstrapper for Linux
 
+2017 Pekora on CachyOS
 ![Pekora 2017 client running on CachyOS.](pekora2017linux.png)
+2018 Pekora on CachyOS
+![Pekora 2018 client running on CachyOS.](pekora2018linux.png)
+2020 Pekora on CachyOS
+![Pekora 2020 client running on CachyOS.](pekora2020linux.png)
+2021 Pekora on CachyOS
+![Pekora 2011 client running on CachyOS.](pekora2021linux.png)
 
 This is an **unofficial** bootstrapper for Pekora on Linux.
 Tested on:
@@ -69,3 +76,6 @@ Wine Version: 10.13
 Pekora Client Version: 2017L
 Issue: Pekora will not launch
 Steps to Reproduce: asdjasfigklwegnelasdjkgn;asd:3
+
+## Credits
+Credit to @PrintedScript for the startup text code, taken from Syntax bootstrapper.
