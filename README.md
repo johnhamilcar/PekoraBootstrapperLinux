@@ -9,6 +9,7 @@ Tested on:
 - Rocky Linux 10
 - PopOS 22.04
 - Garuda Linux
+- Fedora Linux 42 GNOME (mouse input buggy, fixed using wine_mode 3. window resizing also buggy, could be GNOME issue)
 
 Bootstrapper is built with glibc 2.17, so as long as your operating system supports that version, it should run the bootstrapper.
 
