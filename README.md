@@ -8,6 +8,7 @@ Tested on:
 - Ubuntu 22.04
 - Rocky Linux 10
 - PopOS 22.04
+- Garuda Linux
 
 Bootstrapper is built with glibc 2.17, so as long as your operating system supports that version, it should run the bootstrapper.
 
