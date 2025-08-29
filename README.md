@@ -74,6 +74,12 @@ wine_mode = 0
 show_dxvk_hud = false
 ```
 
+## Frequently Asked Questions and Solutions
+
+### Bootstrapper panicks when unwrapping response from ``https://setup.pekora.zip/version``
+This most likely occurs when your ISP is blocking setup.pekora.zip, which is required for bootstrapper to run.
+To fix this, use https://one.one.one.one/dns or Google's DNS servers.
+
 ## Creating an Issue
 Issues should be formatted as such, otherwise they may be closed:
 
@@ -83,6 +89,7 @@ Operating System: CachyOS
 Wine Version: 10.13
 Pekora Client Version: 2017L
 Issue: Pekora will not launch
+Have I read the FAQ, and if so, has it not solved my issues?: True
 Steps to Reproduce: asdjasfigklwegnelasdjkgn;asd:3
 ```
 
